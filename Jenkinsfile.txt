@@ -3,7 +3,7 @@ pipeline {
     stages {
 		
 		
-		// *****ALL CODE TO BE ADDED BELOW THIS COMMENT*****
+		// *****ALL CODE TO BE ADDED BELOW THIS COMENT*****
 		
 	//Code starts for stage Clean
         stage('Clean') {
